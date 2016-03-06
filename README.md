@@ -5,7 +5,7 @@ This repository contains some examples on how to use Quviq's free QuickCheck ver
 
 Of course, the examples also work with the full version of QuickCheck.
 
-Before you can use this repository, make sure you have QuickCheck installed. You can download QuickCheck Mini from www.quviq.com
+Before you can use this repository, make sure you have QuickCheck installed. You can download QuickCheck Mini from www.quviq.com (or alternatively, use Dockerfile which will install QuickCheck Mini into a VM for you.)
 
 # Setup using Docker
 
